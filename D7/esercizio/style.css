@@ -1,0 +1,36 @@
+header div {
+    background-color: aquamarine;
+    color: white;
+    padding: 30px;
+}
+nav {
+    background-color: orange;
+    color: white;
+    padding: 30px;
+    width: 10%;
+    height: 100%;
+}
+article {
+    background-color: rgb(255, 208, 0);
+    color: white;
+    padding: 30px;
+    width: 60%;
+    height: 100%;
+}
+aside {
+    background-color: yellow;
+    color: white;
+    padding: 30px;
+    width: 30%;
+    height: 100%;
+}
+footer {
+    background-color: rgb(127, 255, 165);
+    color: white;
+    padding: 30px;
+}
+main {
+    display: flex;
+    align-items: center;
+    height: 80vh;
+}
